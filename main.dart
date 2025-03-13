@@ -26,7 +26,7 @@ void main() {
 
       dynamic a = 1;
 
-      a = '1'; (d)
+      a = '1'; (o)
    */
   dynamic name3 = '다니엘';
   print(name3);
